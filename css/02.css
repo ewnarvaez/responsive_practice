@@ -1,0 +1,14 @@
+.oferta {
+    background-color: #00446E;
+    padding: 2rem;
+    text-align: center;
+}
+
+.precio {
+    font-size: 4rem;
+    margin: 0;
+}
+
+@media (min-width: 600px) {
+    
+}
